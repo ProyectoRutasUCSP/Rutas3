@@ -1,4 +1,4 @@
-# Control fluido de servomotores Dynamixel con Python + Tkinter
+# Control de servomotores Dynamixel con Python
 
 Esta aplicación crea una ventana en Python para controlar servomotores Dynamixel usando:
 
