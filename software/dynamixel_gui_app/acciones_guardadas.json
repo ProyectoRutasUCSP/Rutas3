@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "updated_at": "2026-05-27 19:13:45",
+  "actions": [
+    {
+      "name": "Saludar",
+      "created_at": "2026-05-27 18:52:30",
+      "positions": [
+        {
+          "name": "Posición 1",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 19:13:45",
+          "servos": {
+            "1": {
+              "angle": 93,
+              "dxl_position": 1057
+            },
+            "2": {
+              "angle": 154,
+              "dxl_position": 1752
+            },
+            "3": {
+              "angle": 175,
+              "dxl_position": 1995
+            }
+          },
+          "updated_at": "2026-05-27 19:13:45"
+        },
+        {
+          "name": "Posición 2",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 18:53:22",
+          "servos": {
+            "1": {
+              "angle": 263,
+              "dxl_position": 2993
+            },
+            "2": {
+              "angle": 147,
+              "dxl_position": 1677
+            },
+            "3": {
+              "angle": 217,
+              "dxl_position": 2466
+            }
+          }
+        },
+        {
+          "name": "Posición 3",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 18:53:32",
+          "servos": {
+            "1": {
+              "angle": 268,
+              "dxl_position": 3043
+            },
+            "2": {
+              "angle": 198,
+              "dxl_position": 2254
+            },
+            "3": {
+              "angle": 189,
+              "dxl_position": 2154
+            }
+          }
+        },
+        {
+          "name": "Posición 4",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 18:53:51",
+          "servos": {
+            "1": {
+              "angle": 261,
+              "dxl_position": 2973
+            },
+            "2": {
+              "angle": 155,
+              "dxl_position": 1764
+            },
+            "3": {
+              "angle": 206,
+              "dxl_position": 2341
+            }
+          }
+        },
+        {
+          "name": "Posición 5",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 18:53:59",
+          "servos": {
+            "1": {
+              "angle": 263,
+              "dxl_position": 2995
+            },
+            "2": {
+              "angle": 192,
+              "dxl_position": 2183
+            },
+            "3": {
+              "angle": 181,
+              "dxl_position": 2063
+            }
+          }
+        },
+        {
+          "name": "Posición 6",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 18:54:07",
+          "servos": {
+            "1": {
+              "angle": 259,
+              "dxl_position": 2943
+            },
+            "2": {
+              "angle": 153,
+              "dxl_position": 1743
+            },
+            "3": {
+              "angle": 198,
+              "dxl_position": 2255
+            }
+          }
+        },
+        {
+          "name": "Posición 7",
+          "velocity": 40,
+          "delay_ms": 0,
+          "created_at": "2026-05-27 18:54:22",
+          "servos": {
+            "1": {
+              "angle": 90,
+              "dxl_position": 1027
+            },
+            "2": {
+              "angle": 171,
+              "dxl_position": 1943
+            },
+            "3": {
+              "angle": 187,
+              "dxl_position": 2132
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

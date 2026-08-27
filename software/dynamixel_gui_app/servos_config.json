@@ -1,0 +1,28 @@
+{
+  "servos": [
+    {
+      "servo_id": 1,
+      "min_angle": 0,
+      "max_angle": 360,
+      "dxl_min": 0,
+      "dxl_max": 4095,
+      "velocity": 44
+    },
+    {
+      "servo_id": 2,
+      "min_angle": 0,
+      "max_angle": 360,
+      "dxl_min": 0,
+      "dxl_max": 4095,
+      "velocity": 36
+    },
+    {
+      "servo_id": 3,
+      "min_angle": 0,
+      "max_angle": 360,
+      "dxl_min": 0,
+      "dxl_max": 4095,
+      "velocity": 55
+    }
+  ]
+}
