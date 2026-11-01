@@ -1,6 +1,6 @@
 # Árbol de Comportamiento V1.0 - Proyecto PedroBot
 
-El código fuente de esta versión (incluyendo modelos 3D y mapas pesados de Gazebo) supera el límite de tamaño de la interfaz web de GitHub.
+El código fuente de esta versión (incluyendo modelos 3D y mapas pesados de Gazebo
 
 **🔗 [Descargar la Versión V1.0 (.zip desde Google Drive)](https://drive.google.com/drive/folders/1EqVJf4HeBFqgDDfc-mynCGfGVp1I9DTR?usp=sharing)**
 
